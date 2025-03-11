@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44f1e9b6.css",
+    "main.js": "/static/js/main.7e7eed07.js",
+    "static/js/453.c57b4cd1.chunk.js": "/static/js/453.c57b4cd1.chunk.js",
+    "static/media/eye-surgery.jpg": "/static/media/eye-surgery.2f3e976ba9dd368fbafa.jpg",
+    "static/media/orthopedic-surgery.jpg": "/static/media/orthopedic-surgery.ef35d729a16d0ec69e1a.jpg",
+    "static/media/plastic-surgery.jpg": "/static/media/plastic-surgery.9cdd4bc6379ecc28c3ee.jpg",
+    "static/media/ent-surgery.jpg": "/static/media/ent-surgery.d654a14a520e97919a7c.jpg",
+    "static/media/bariatric-surgery.jpg": "/static/media/bariatric-surgery.6d297656f7ca6ca59929.jpg",
+    "static/media/neurosurgery.jpg": "/static/media/neurosurgery.888f2153534d7f3e76cb.jpg",
+    "static/media/general-surgery.jpg": "/static/media/general-surgery.e79dce00450a9ae09d24.jpg",
+    "static/media/cardiac-surgery.jpg": "/static/media/cardiac-surgery.a7eea8ff230aa5d101e4.jpg",
+    "static/media/doctor2.jpg": "/static/media/doctor2.1854b1f39b42397263b5.jpg",
+    "static/media/doctor1.jpg": "/static/media/doctor1.9582b5cb9e583ee7627a.jpg",
+    "static/media/doctor3.jpg": "/static/media/doctor3.ec83727a9f9d68cb5406.jpg",
+    "static/media/patients(2).jpg": "/static/media/patients(2).7ece62746ef522b5793a.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/patient(1).jpg": "/static/media/patient(1).8148dc36e2717eb0eeba.jpg",
+    "static/media/video-consult.jpeg": "/static/media/video-consult.557ad649f2549db99687.jpeg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/pharmacy-bg.jpg": "/static/media/pharmacy-bg.2e678bba504dba78c806.jpg",
+    "static/media/finddoct.jpg": "/static/media/finddoct.dcefd6579d8294d3af93.jpg",
+    "static/media/surg.avif": "/static/media/surg.1fad5b5ee6496bae994f.avif",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/pharmacy-illustration.webp": "/static/media/pharmacy-illustration.a1ce496bb43b20a4b552.webp",
+    "static/media/healthcare-bg.avif": "/static/media/healthcare-bg.eb3f747066124dcbbc1e.avif",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/index.html",
+    "main.44f1e9b6.css.map": "/static/css/main.44f1e9b6.css.map",
+    "main.7e7eed07.js.map": "/static/js/main.7e7eed07.js.map",
+    "453.c57b4cd1.chunk.js.map": "/static/js/453.c57b4cd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f1e9b6.css",
+    "static/js/main.7e7eed07.js"
+  ]
+}
